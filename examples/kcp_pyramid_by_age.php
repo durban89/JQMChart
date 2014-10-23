@@ -4,7 +4,7 @@
 <?php include "opener.php"; ?>
 
 <!-- Example scripts go here -->
-    <link class="include" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/smoothness/jquery-ui.css" rel="Stylesheet" /> 
+    <link class="include" type="text/css" href="http://ajax.useso.com/ajax/libs/jqueryui/1.10.0/themes/smoothness/jquery-ui.css" rel="Stylesheet" /> 
     <link href="colorpicker/jquery.colorpicker.css" rel="stylesheet" type="text/css"/>
     <style type="text/css">
 
